@@ -1,4 +1,4 @@
-# Kaggle　Learn　翻訳ノート
+# Kaggle-Learn-翻訳ノート
 - Kaggle LearnのチュートリアルをJupyter Notebook上で一文ずつ翻訳しながら学習した記録をまとめたリポジトリです。
 ---
 
