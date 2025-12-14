@@ -25,3 +25,7 @@
 ### 2025/12/13
 - 「intro to lists」翻訳完了
 - 「intro to programming」コース修了
+
+### 2025/12/14
+- 「Python」コース開始
+- 「Hello, Python」翻訳開始
