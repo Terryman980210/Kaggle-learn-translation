@@ -32,3 +32,6 @@
 
 ### 2025/12/15
 - 「Hello, Python」翻訳完了
+
+### 2025/12/17
+- 「Functions and Getting Help」翻訳開始
