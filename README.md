@@ -35,3 +35,6 @@
 
 ### 2025/12/17
 - 「Functions and Getting Help」翻訳開始
+
+### 2025/12/21
+- 「Functions and Getting Help」翻訳
