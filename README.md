@@ -41,3 +41,6 @@
 
 ### 2025/12/22
 - 「Functions and Getting Help」翻訳完了
+
+### 2025/12/23
+- 「Booleans and Conditionals」翻訳開始
