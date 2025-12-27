@@ -44,3 +44,6 @@
 
 ### 2025/12/23
 - 「Booleans and Conditionals」翻訳開始
+
+### 2025/12/27
+- 「Booleans and Conditionals」翻訳
